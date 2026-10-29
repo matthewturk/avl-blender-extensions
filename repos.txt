@@ -3,3 +3,4 @@
 matthewturk/blender-script-runner
 matthewturk/blender-viewport-clipping
 matthewturk/blender-avl-geoviz
+matthewturk/blender-yt-volumes
