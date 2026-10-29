@@ -1,0 +1,5 @@
+# GitHub repos whose latest release's .zip assets go in the index, one per line.
+# A repo with no release yet is skipped.
+matthewturk/blender-script-runner
+matthewturk/blender-viewport-clipping
+matthewturk/blender-avl-geoviz
